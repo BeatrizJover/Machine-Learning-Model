@@ -1,0 +1,14 @@
+Train metrics:
+RMSE_train: 75164.5847
+R²_train: 0.7156
+MAE_train: 54137.0178
+MAPE_train: 17.1630
+sMAPE_train: 4.1548
+
+Test metrics:
+RMSE_test: 88195.9923
+R²_test: 0.6046
+MAE_test: 64005.0583
+MAPE_test: 20.7717
+sMAPE_test: 4.9051
+
